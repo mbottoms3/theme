@@ -1,0 +1,25 @@
+
+.header {
+    text-align: center;
+    padding: 1em;
+}
+
+.header-border {
+    border: 2px solid rgb(93, 165, 194);
+}
+
+.color-1 {
+background-color: rgb(188, 204, 211);
+}
+
+.color-2 {
+background-color: rgb(240, 248, 255);
+}
+
+.color-3 {
+background-color: rgb(93, 165, 194);
+}
+
+.color-4 {
+background-color: rgb(115, 209, 186);
+}
